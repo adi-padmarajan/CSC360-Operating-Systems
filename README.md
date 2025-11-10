@@ -1,4 +1,4 @@
-# CSC360-Operating-Systems
+#Operating-Systems
 
 ---
 
