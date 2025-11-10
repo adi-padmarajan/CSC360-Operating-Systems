@@ -12,6 +12,6 @@
 ---
 ## Contents in this Repository
 
-* A1 - SSI (Simple Shell Interpretor)
-* A2 - MTS (Mutli-Threading Train Similator)
+* A1: SSI - Simple Shell Interpretor (Grade: 98.33%)
+* A2: MTS - Mutli-Threading Train Similator (Grade: To be declared)
 ---
